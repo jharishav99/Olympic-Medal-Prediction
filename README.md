@@ -2,8 +2,7 @@
 Welcome to the Olympic Medal Prediction project! This repository showcases a machine learning approach to predict Olympic medal outcomes based on various features. The project explores several classification models to determine their effectiveness in forecasting medal winners.
 
 
-Project Overview
-
+Project Overview :-
 This project implements multiple machine learning algorithms to predict Olympic medal outcomes. The models used include:
 
 Logistic Regression
@@ -13,7 +12,7 @@ Random Forest
 Gradient Boosting
 Neural Network
 
-Key Findings
+Key Findings:-
 
 Highest Accuracy: The Random Forest Classifier achieved the highest accuracy of 89.02%, outperforming the other models.
 Other Model Accuracies:
@@ -23,7 +22,7 @@ Decision Tree: 87.56%
 Gradient Boosting: 88.54%
 Neural Network: 87.56%
 
-Methodology
+Methodology :-
 
 Data Preparation:
 
